@@ -1,6 +1,6 @@
-# gitpipe [![Build Status](https://secure.travis-ci.org/demands/gitpipe.png?branch=master)](http://travis-ci.org/demands/gitpipe)
+# gitpipe
 
-Listen for changes in one git repo, do something, push to another git repo. All automatically
+Listen for changes in one git repo, do something, push to another git repo. All automatically.
 
 ## Getting Started
 Install the module with: `npm install gitpipe`
